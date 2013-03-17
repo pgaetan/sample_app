@@ -2,5 +2,5 @@
 
 C'est l'Application Exemple pour le
 [*Tutoriel Ruby on Rails : Apprendre Rails par l'exemple*](http://railstutorial.org/)
-par [Michael Hartl](http://michaelhartl.com/).
-*Projet de Master 1 Informatique*
+par [Michael Hartl](http://michaelhartl.com/).  
+*Projet de Master 1 Informatique Gaétan Picot*
